@@ -1,6 +1,7 @@
 # Git Essentials / Git for Everybody
 
 
-> This course to teach me how to use Git and Github
+To say something uniquely awesome on the branch
+
 
 Course Created by Samed Walker
